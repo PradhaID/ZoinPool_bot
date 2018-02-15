@@ -15,10 +15,10 @@ You can give me these commands :
 ![alt text](https://raw.githubusercontent.com/adityudhna/ZoinPool_bot/master/start.png)
 
 /s
-![alt text](https://raw.githubusercontent.com/adityudhna/ZoinPool_bot/master/s.png)
+![alt text](https://raw.githubusercontent.com/adityudhna/ZoinPool_bot/master/s.PNG)
 
 /b
-![alt text](https://raw.githubusercontent.com/adityudhna/ZoinPool_bot/master/b.png)
+![alt text](https://raw.githubusercontent.com/adityudhna/ZoinPool_bot/master/b.PNG)
 
 /w
 ![alt text](https://raw.githubusercontent.com/adityudhna/ZoinPool_bot/master/w.png)
